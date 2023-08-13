@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@distube/deezer": "^1.0.0",
+    "@distube/soundcloud": "^1.3.3",
+    "@distube/spotify": "^1.5.1",
+    "@iamtraction/google-translate": "^2.0.1",
+    "axios": "^1.4.0",
+    "canvacord": "^5.4.10",
+    "cpu-stat": "^2.0.1",
+    "croxydb": "^0.0.10",
+    "discord-giveaways": "^6.0.1",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.12.1",
+    "distube": "^4.0.6",
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.7.0",
+    "mongoose": "^6.0.2",
+    "openai": "^3.3.0",
+    "quickdb": "^1.0.5",
+    "rss-parser": "^3.13.0",
+    "superagent": "^8.0.9",
+    "weather-js": "^2.0.0"
+  },
+  "name": "refleksbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "refleks"
+  ],
+  "author": "refleks",
+  "license": "MIT",
+  "description": ""
+}
